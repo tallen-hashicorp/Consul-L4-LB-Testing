@@ -1,0 +1,9 @@
+{
+      "Name": "web",
+      "Port": 80,
+      "Address": "172.21.0.3",
+      "check": {
+        "http": "http://172.21.0.3",
+        "interval": "3s"
+      }
+}
